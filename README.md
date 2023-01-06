@@ -6,8 +6,8 @@ Esse projeto foi desenvolvido para o desafio <strong>Fundamentos do React Native
 
 ## Instale o Expo Go em seu smartphone
 
-![Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
-![iOS](https://apps.apple.com/br/app/expo-go/id982107779)
+[Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
+[iOS](https://apps.apple.com/br/app/expo-go/id982107779)
 
 
 ## Instale as dependências com:
